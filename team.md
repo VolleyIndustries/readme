@@ -26,10 +26,25 @@ David Hariri
 - Wearer of many hats, Co-Founder
 - Queen's University, BSc in Geology
 - Previously Teehan+Lax (Developer), Evans & Peck (Consultant)
-- Skills: CSS > JS > PHP > Swift > Python > Shell
+- Skills: CSS > JS > SQL > PHP > Swift > Python > Shell
 - Lived in Sydney for a while
 
 **Presence:**
 - [Twitter](https://twitter.com/davehariri "David's Twitter")
 - [Medium](https://medium.com/@davehariri "David's Medium")
+
+Shervin Mehryar
+---
+![](https://media.licdn.com/mpr/mpr/shrink_200_200/p/8/005/0a1/0d5/247903e.jpg "Our third in command")
+
+**Facts:**
+- Employee #4
+- Back End Engineer / Data Scientist
+- University of Toronto, BSco in Electrical Engineering
+- MIT, Masters of Engineering in Machine Learning
+- Skills: Python > MatLab > C > C++
+- Lived in California before Mike got to him
+
+**Presence:**
+- [Twitter](https://twitter.com/sherveinsteiger "Shervin's Twitter")
 
