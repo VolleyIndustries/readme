@@ -7,7 +7,7 @@ Mike Murchison
 
 **Facts:**
 - Employee #1
-- CEO
+- CEO, Co-Founder
 - University of Toronto, Victoria College, Ba in HCI
 - Previously Whatnextlab (Founder), Atlus (Founder)
 - Never had a real job (for better or for worse)
@@ -23,7 +23,7 @@ David Hariri
 
 **Facts:**
 - Employee #2
-- Wearer of many hats
+- Wearer of many hats, Co-Founder
 - Queen's University, BSc in Geology
 - Previously Teehan+Lax (Developer), Evans & Peck (Consultant)
 - Skills: CSS > JS > PHP > Swift > Python > Shell
