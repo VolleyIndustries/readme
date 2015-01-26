@@ -1,4 +1,4 @@
-**Our Mission**
+**Our mission**
 ==
 Our mission is to help people help each other.
 
