@@ -36,7 +36,7 @@
 <img src="https://media.licdn.com/mpr/mpr/shrink_200_200/p/8/005/0a1/0d5/247903e.jpg" width="128px">
 
 **Facts:**
-- Employee #3
+- Employee #4
 - Back End Engineer / Data Scientist
 - University of Toronto, BSc in Electrical Engineering
 - MIT, Masters of Engineering in Machine Learning
