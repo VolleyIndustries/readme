@@ -34,7 +34,7 @@ David Hariri
 
 Shervin Mehryar
 ---
-![](https://media.licdn.com/mpr/mpr/shrink_200_200/p/8/005/0a1/0d5/247903e.jpg "Our third in command")
+<img src="https://media.licdn.com/mpr/mpr/shrink_200_200/p/8/005/0a1/0d5/247903e.jpg" width="128px">
 
 **Facts:**
 - Employee #3
