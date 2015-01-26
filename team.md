@@ -8,9 +8,8 @@ Mike Murchison
 **Facts:**
 - Employee #1
 - CEO, Co-Founder
-- University of Toronto, Victoria College, Ba in HCI
-- Previously Whatnextlab (Founder), Atlus (Founder)
-- Never had a real job (for better or for worse)
+- University of Toronto, Trinity College, BSc in CogSci, Pyschology, HCI
+- Previously founded and sold Atlus (Founder)
 - Lived in New Zealand for a while
 
 **Presence:**
@@ -38,9 +37,9 @@ Shervin Mehryar
 ![](https://media.licdn.com/mpr/mpr/shrink_200_200/p/8/005/0a1/0d5/247903e.jpg "Our third in command")
 
 **Facts:**
-- Employee #4
+- Employee #3
 - Back End Engineer / Data Scientist
-- University of Toronto, BSco in Electrical Engineering
+- University of Toronto, BSc in Electrical Engineering
 - MIT, Masters of Engineering in Machine Learning
 - Skills: Python > MatLab > C > C++
 - Lived in California before Mike got to him
