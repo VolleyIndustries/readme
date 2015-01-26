@@ -1,5 +1,7 @@
 #Keyboard shortcuts
 
+![](http://media.giphy.com/media/jw0gdHTfazp2U/giphy.gif)
+
 For now, we only have keyboard shortcuts for [the home view](http://volley.works/home), with more coming soon across the site. Let us know on [Twitter](https://twitter.com/volleyworks) what shortcuts you want to see
 
 ####/home
