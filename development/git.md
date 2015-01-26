@@ -26,7 +26,7 @@ How we git down
 
 - Commit your changes
 
-`git commit -am "my awesome commit title`
+`git commit -am "my awesome commit title"`
 
 - Push it up
 
