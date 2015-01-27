@@ -6,7 +6,28 @@ https://api.volley.works/search/string
 
 ## Resource Information
 
+<table style="width:100%">
+  <tr>
+    <th>Response Formats </th>
+    <td> JSON </td>
+  </tr>
+  <tr>
+    <th> Requires authentication? </th>
+    <td> Yes </td>
+  </tr>
+  <tr> 
+    <th> Rate Limited? </th>
+    <td> No </th>
+</table>
+
 ## Parameters
+
+<table style="width:100%">
+  <tr>
+    <th>string_query</th>
+    <td>A white-space delimited string containg words that are searched to for matches. </td>
+  </tr>
+</table>
 
 ## Example Request
 
