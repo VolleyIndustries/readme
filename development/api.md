@@ -1,6 +1,6 @@
 # Oauth 
 
-We use [Django Oauth Toolkit] (https://django-oauth-toolkit.readthedocs.org/). Each client must make a endpoint call to - [<code>POST</code> o/token/] (readme/development/api.md) to obtain an Oauth2 token. 
+We use [Django Oauth Toolkit] (https://django-oauth-toolkit.readthedocs.org/). Each client must make a endpoint call to - [<code>POST</code> o/token/] (endpoints/o-token.md) to obtain an Oauth2 token. 
 
 # Endpoints
 
