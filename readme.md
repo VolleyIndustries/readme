@@ -2,6 +2,7 @@ How Volley Works
 ===
 
 This is a collection of documents for the curious on how and why we're building Volley. 
+![](http://i.imgur.com/5n1PlZm.gif?1)
 
 Table of contents
 ---
