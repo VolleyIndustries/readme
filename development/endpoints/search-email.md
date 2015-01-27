@@ -3,9 +3,9 @@
 Returns the number of Volley memebrs who have email_query as a contact.
 
 ## Resource URL
-
+```javascript
 https://api.volley.works/search/email
-
+```
 ## Resource Information
 
 <table style="width:100%">
@@ -32,8 +32,9 @@ https://api.volley.works/search/email
 </table>
 
 ## Example Request
-
-https://api.volley.works/search/email?email_query=shervin@volley.works
+```
+GET https://api.volley.works/search/email?email_query=shervin@volley.works
+```
 
 API response:
 ```javascript
