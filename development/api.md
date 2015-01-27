@@ -4,7 +4,7 @@ We use [Django Oauth Toolkit] (https://django-oauth-toolkit.readthedocs.org/). E
 
 # Endpoints
 
-The following are Volley's public api endpoints. Note that calls to the endpoints require Oauth authentication (see above).
+The following are public API endpoints for Volley. Note that calls to the endpoints require Oauth authentication (see above).
 
 ## Search
 - [<code>GET</code> search/string] (readme/development/api.md)
