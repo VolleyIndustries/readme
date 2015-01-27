@@ -8,7 +8,7 @@ The following are public API endpoints for Volley. Note that calls to the endpoi
 
 ## Search
 - [<code>GET</code> search/string] (readme/development/api.md)
-- [<code>GET</code> search/email] (readme/development/api.md)
+- [<code>GET</code> search/email] (endpoints/search-email.md)
 
 ## Oauth
 - [<code>GET</code> o/token/] (readme/development/api.md)
