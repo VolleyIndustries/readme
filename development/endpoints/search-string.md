@@ -33,7 +33,9 @@ https://api.volley.works/search/string
 
 ## Example Request
 
-https://api.volley.works/search/string?string_query=Looking%20for%20CEO%27s%20interested%20in%20marketing%20turtles
+```javascript
+GET https://api.volley.works/search/string?string_query=Looking%20for%20CEO%27s%20interested%20in%20marketing%20turtles
+```
 
 API response in JSON format:
 ```javascript
