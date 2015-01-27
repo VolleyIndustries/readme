@@ -1,4 +1,4 @@
-# Post search/email
+# POST o/token/
 
 ## Resource URL
 
