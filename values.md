@@ -18,6 +18,6 @@ we seek to move swiftly (with graceful speed) in everything we do. We favour lea
 we're committed to crafting a beautiful, delightful experience that makes both our lives and the lives of  our users better. 
 
 ###Excellence
-is what we are in pursuit of. It's not possible to achieve without trust and honesty. 
+is what we are in pursuit of. Ultimately it's not possible to achieve without a foundation of trust. 
 
 ![](http://i.imgur.com/43Ft2j7.png?1 "Our pyramid of excellence")
