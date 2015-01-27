@@ -1,7 +1,7 @@
 How Volley Works
 ===
 
-This is a collection of documents for the curious on how we work and why
+This is a collection of documents for the curious on how and why we're building Volley. 
 
 Table of contents
 ---
