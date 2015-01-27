@@ -3,9 +3,9 @@
 Returns matches to words in query_string from Volley tags.
 
 ## Resource URL
-
+```javascript
 https://api.volley.works/search/string
-
+```
 ## Resource Information
 
 <table style="width:100%">
