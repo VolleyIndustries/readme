@@ -11,6 +11,7 @@ Table of contents
 3. [Our values](https://github.com/VolleyIndustries/readme/blob/master/values.md)
 4. [Our blog](https://medium.com/volley-works)
 5. [Stories from Volley members](https://medium.com/volley-stories)
-6. [FAQ](https://github.com/VolleyIndustries/readme/blob/master/faq.md)
-7. [Keyboard shortcuts](https://github.com/VolleyIndustries/readme/blob/master/shortcuts.md)
+6. [Our community updates](https://github.com/VolleyIndustries/readme/tree/master/updates)
+7. [FAQ](https://github.com/VolleyIndustries/readme/blob/master/faq.md)
+8. [Keyboard shortcuts](https://github.com/VolleyIndustries/readme/blob/master/shortcuts.md)
 
