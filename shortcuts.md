@@ -1,4 +1,4 @@
-#Keyboard shortcuts
+#Keyboard Shortcuts
 
 ![](http://media.giphy.com/media/CzbiCJTYOzHTW/giphy.gif)
 
