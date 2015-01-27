@@ -19,3 +19,5 @@ we're committed to crafting a beautiful, delightful experience that makes both o
 
 ###Excellence
 is what we are in pursuit of. It's not possible to achieve without trust and honesty. 
+
+![](http://imgur.com/43Ft2j7 "Our pyramid of excellence")
