@@ -1,5 +1,7 @@
 # Get search/string
 
+Returns matches to words in query_string from Volley tags.
+
 ## Resource URL
 
 https://api.volley.works/search/string
