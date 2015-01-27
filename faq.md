@@ -1,9 +1,9 @@
 Frequently asked questions
 ==
 
-***What is Volleying?***
+***What is volleying?***
 
-Volleying is the (fun) act of forwarding a request to a friend. Volley requests when you know someone who is better suited to help with it. Don't worry: the author of the request won't know who you volleyed it to, so there's no pressure on your friend to reply. 
+Volleying is the fun act of forwarding a request to a friend. Volley requests when you know someone who is better suited to help with it. Don't worry: the author of the request won't know who you volleyed it to, so there's no pressure on your friend to reply. 
 
 ***Why does Volley require Google sign in and contacts permissions?***
 
@@ -23,7 +23,7 @@ Volley a request when a friend comes to mind who is better suited to help. It’
 
 ***What will the internet look like 10 years from now?***
 
-We're really opinionated about this. [Let's get into a twitter argument about it](twitter.com/volleyworks). 
+We're really opinionated about this. [Let's get into a twitter argument about it](http://twitter.com/volleyworks). 
 
 ***What is Karma?***
 
