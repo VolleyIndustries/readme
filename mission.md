@@ -1,4 +1,4 @@
-**Our mission**
+**Our Mission**
 ==
 ####**Our mission is to help people help each other.** 
 
