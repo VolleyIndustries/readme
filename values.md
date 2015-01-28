@@ -12,7 +12,7 @@ is core to our team communication. Communication is worthless without it. This a
 we recognize that achieving excellence requires relentless dedication, and an understanding that progress is not linear. 
 
 ###Swiftness 
-we seek to move swiftly (with graceful speed) in everything we do. We favour learning-through-doing over learning-through-deliberation. Furthermore, we value Volley's user experience being swift both in terms of it's responsiveness as well as its intelligence. 
+we seek to move swiftly (with graceful speed) in everything we do. We favour learning-through-doing over learning-through-deliberation. Furthermore, we value Volley's user experience being swift both in terms of its responsiveness as well as its intelligence. 
 
 ###Delight & Beauty
 we're committed to crafting a beautiful, delightful experience that makes both our lives and the lives of  our users better. 
