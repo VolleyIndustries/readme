@@ -21,7 +21,7 @@
   </tr>
   <tr>
   <td>401</td>
-  <td>No valid token present</td>
+  <td>Unauthorized for this resource</td>
   </tr>
   <tr>
   <td>403</td>
