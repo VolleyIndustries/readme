@@ -19,7 +19,7 @@ Resources:
 ---
 - Endpoint description (JSON formatted): [<code>GET</code> search/string] (https://github.com/VolleyIndustries/readme/blob/master/development/endpoints/search-string.md)
 - The endpoint: [Endpoint with example](https://api.volley.works/search/string?string_query=Wondering%20what%20other%20ios%20developers%20use%20for%20package%20control)
-- Use modern, well-montained librairies if needed
+- Use modern, well-maintained librairies if needed
 - Make use of latest iOS7/8 API's if needed
 - Swift or Objective-C, doesn't matter to us (although David feels Swift is more future-friendly and semantically more friendly)
 
