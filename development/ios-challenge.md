@@ -7,7 +7,7 @@ Mission:
 
 Build a single-view-application that allows the user to pull down on the interface to type into a text field (similar to Ping or Clear) to create a question. As the user types, the application should underline keywords inline by checking an endpoint (see below). 
 
-Contraints:
+Constraints:
 ---
 1. Single view application
 2. Uses Interface Builder
