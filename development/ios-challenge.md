@@ -3,9 +3,16 @@ iOS Challenge
 
 Mission:
 ---
-**Create a simple, fast, live search tagging feature for making requests.**
+**Create an elegant, simple, fast, live search tagging feature for making Volley requests.**
 
 Build a single-view-application that allows the user to pull down on the interface to type into a text field (similar to Ping or Clear) to create a question. As the user types, the application should underline keywords inline by checking an endpoint (see below). 
+
+Design:
+---
+This part of things is optional, but if you are so inclined, here are some interactions we think are beautiful:
+<img width="280px" src="http://volley.works/assets/gifs/ping.gif">
+<img width="280px" src="http://volley.works/assets/gifs/feedworthy.gif">
+<img width="280px" src="http://volley.works/assets/gifs/clear.gif">
 
 Constraints:
 ---
