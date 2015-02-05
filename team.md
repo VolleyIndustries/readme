@@ -9,7 +9,7 @@
 - Employee #1
 - CEO, Co-Founder
 - University of Toronto, Trinity College, BSc in CogSci, Pyschology, HCI
-- Previously cofounded and sold Atlus (Founder)
+- Previously co-founded and sold Atlus
 - Lived in New Zealand for a while
 
 **Presence:**
