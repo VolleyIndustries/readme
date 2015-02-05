@@ -1,7 +1,6 @@
 #Team Volley
 <a href="#mike-murchison"><img src="https://lh4.googleusercontent.com/-DgVSPN_T0SA/AAAAAAAAAAI/AAAAAAAAAAA/lMdQB0bH9mQ/s128-c-k/photo.jpg" width="64px"></a>
 <a href="#david-hariri"><img src="https://lh3.googleusercontent.com/-15DCouwNT5s/AAAAAAAAAAI/AAAAAAAAAAA/O4A3I3KDqTQ/s128-c-k/photo.jpg" width="64px"></a>
-<a href="#shervin-mehryar"><img src="https://media.licdn.com/mpr/mpr/shrink_200_200/p/8/005/0a1/0d5/247903e.jpg" width="64px"></a>
 
 ####Mike Murchison
 ![](https://lh4.googleusercontent.com/-DgVSPN_T0SA/AAAAAAAAAAI/AAAAAAAAAAA/lMdQB0bH9mQ/s128-c-k/photo.jpg "Our fearless leader")
@@ -31,18 +30,4 @@
 **Presence:**
 - [Twitter](https://twitter.com/davehariri "David's Twitter")
 - [Medium](https://medium.com/@davehariri "David's Medium")
-
-####Shervin Mehryar
-<img src="https://media.licdn.com/mpr/mpr/shrink_200_200/p/8/005/0a1/0d5/247903e.jpg" width="128px">
-
-**Facts:**
-- Employee #4
-- Back End Engineer / Data Scientist
-- University of Toronto, BSc in Electrical Engineering
-- MIT, Masters of Engineering in Machine Learning
-- Skills: Python > MatLab > C > C++
-- Lived in California before Mike got to him
-
-**Presence:**
-- [Twitter](https://twitter.com/sherveinsteiger "Shervin's Twitter")
 
