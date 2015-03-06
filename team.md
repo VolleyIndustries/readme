@@ -27,5 +27,5 @@
 
 **Presence:**
 - [Twitter](https://twitter.com/davehariri "David's Twitter")
-- [Medium](https://medium.com/@davehariri "David's Medium")
+- [Website](http://dhariri.com "David's Site")
 
