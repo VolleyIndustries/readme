@@ -6,7 +6,6 @@
 ![](https://lh4.googleusercontent.com/-DgVSPN_T0SA/AAAAAAAAAAI/AAAAAAAAAAA/lMdQB0bH9mQ/s128-c-k/photo.jpg "Our fearless leader")
 
 **Facts:**
-- Employee #1
 - CEO, Co-Founder
 - University of Toronto, Trinity College, BSc in CogSci, Psychology, HCI
 - Previously co-founded and sold [Atlus](crunchbase.com/organization/atlus-inc)
@@ -20,7 +19,6 @@
 ![](https://lh3.googleusercontent.com/-15DCouwNT5s/AAAAAAAAAAI/AAAAAAAAAAA/O4A3I3KDqTQ/s128-c-k/photo.jpg "Our second in command")
 
 **Facts:**
-- Employee #2
 - Wearer of many hats, Co-Founder
 - Queen's University, BSc in Geology
 - Previously Teehan+Lax (Developer), Evans & Peck (Consultant)
