@@ -8,7 +8,7 @@
 
 **Facts:**
 - CEO, Co-Founder
-- Previously co-founded [Atlus](crunchbase.com/organization/atlus-inc)
+- Previously co-founded [Atlus](http://crunchbase.com/organization/atlus-inc)
 
 **Presence:**
 - [Twitter](https://twitter.com/mimurchison "Mike's Twitter")
