@@ -1,7 +1,7 @@
 How Volley Works
 ===
 
-This is a collection of documents for the curious on how and why we're building [Volley](http:volley.works). 
+[Volley](http:volley.works) is a community of developers, designers and entrepreneurs all helping each other make better things. Here you'll find a collection of documents on how and why we're building Volley. 
 
 Table of contents
 ---
