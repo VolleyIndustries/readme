@@ -18,7 +18,7 @@
 ![](https://lh3.googleusercontent.com/-15DCouwNT5s/AAAAAAAAAAI/AAAAAAAAAAA/O4A3I3KDqTQ/s128-c-k/photo.jpg "Our second in command")
 
 **Facts:**
-- Wearer of many hats, Co-Founder
+- C3PO, Co-Founder
 - Previously Teehan+Lax (Developer), Evans & Peck (Consultant)
 
 **Presence:**
