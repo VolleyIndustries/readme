@@ -1,6 +1,6 @@
 How Volley Works
 ===
-[Volley](http:volley.works) is a community of developers, designers and entrepreneurs all helping each other make better things. Here you'll find a collection of documents on how and why we're building Volley.
+<img src ="http://volley.works/assets//marks/blueHorizontal.png" height="50">[Volley](http:volley.works) is a community of developers, designers and entrepreneurs all helping each other make better things. Here you'll find a collection of documents on how and why we're building Volley.
 
 
 
@@ -17,4 +17,4 @@ Table of contents
 9. [Interviews with Volley members](https://docs.google.com/spreadsheets/d/1PYUkcwEDhvS1nwhXUrt6-AwBY8Z07UmBsrNwPmc47Bc/edit#gid=0)
 10. [Press assets](https://www.dropbox.com/sh/bwx6wsmu9vukwmu/AABBrTMYX6qRXLmayNo6qbq9a?dl=0)
 
-![](http://volley.works/assets/icons/WebIcon-76.png)
+
