@@ -1,7 +1,7 @@
 How Volley Works
 ===
 
-![](http://volley.works/assets/icons/WebIcon-76.png)[Volley](http:volley.works) is a community of developers, designers and entrepreneurs all helping each other make better things. Here you'll find a collection of documents on how and why we're building Volley. 
+[Volley](http:volley.works) is a community of developers, designers and entrepreneurs all helping each other make better things. Here you'll find a collection of documents on how and why we're building Volley. ![](http://volley.works/assets/icons/WebIcon-76.png)
 
 Table of contents
 ---
