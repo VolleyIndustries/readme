@@ -10,8 +10,7 @@ Build a single-view-application that allows the user to pull down on the interfa
 Design:
 ---
 This part of things is optional, but if you are so inclined, here are some interactions we think are beautiful:
-<img width="280px" src="http://volley.works/assets/gifs/ping.gif">
-<img width="280px" src="http://volley.works/assets/gifs/clear.gif">
+<video width="280px" src="https://raw.githubusercontent.com/VolleyIndustries/readme/master/development/assets/clear.mov">
 
 Constraints:
 ---
