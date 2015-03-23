@@ -10,9 +10,10 @@ Build a single-view-application that allows the user to pull down on the interfa
 Design:
 ---
 This part of things is optional, but if you are so inclined, here are some interactions we think are beautiful:
-[Clear (by RealMac)](https://raw.githubusercontent.com/VolleyIndustries/readme/master/development/assets/clear.mov)
-[Ping (by Secret)](https://raw.githubusercontent.com/VolleyIndustries/readme/master/development/assets/ping.mov)
-[Feedworthy (by Yap Studios)](https://raw.githubusercontent.com/VolleyIndustries/readme/master/development/assets/feedworthy.mov)
+
+- [Clear (by RealMac)](https://raw.githubusercontent.com/VolleyIndustries/readme/master/development/assets/clear.mov)
+- [Ping (by Secret)](https://raw.githubusercontent.com/VolleyIndustries/readme/master/development/assets/ping.mov)
+- [Feedworthy (by Yap Studios)](https://raw.githubusercontent.com/VolleyIndustries/readme/master/development/assets/feedworthy.mov)
 
 Constraints:
 ---
