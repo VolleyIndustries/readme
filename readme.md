@@ -12,6 +12,7 @@ Table of contents
 4. [Blog](https://medium.com/volley-works)
 5. [Stories from Volley members](https://medium.com/volley-stories)
 6. [Community updates](https://github.com/VolleyIndustries/readme/tree/master/updates)
+7. [Etiquette](https://github.com/VolleyIndustries/readme/blob/readme_etiquette/Etiquette.md)
 7. [FAQ](https://github.com/VolleyIndustries/readme/blob/master/faq.md)
 8. [Keyboard shortcuts](https://github.com/VolleyIndustries/readme/blob/master/shortcuts.md)
 9. [Interviews with Volley members](https://docs.google.com/spreadsheets/d/1PYUkcwEDhvS1nwhXUrt6-AwBY8Z07UmBsrNwPmc47Bc/edit#gid=0)
