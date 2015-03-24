@@ -13,4 +13,5 @@ Be clear about how the community can help you. Tell the community what we can do
 As much as possible, give context behind the problem the community is helping you solve.  Is this help for your business, for a side project, for a nonprofit you work with? 
 
 The card below is an example of a request that meets all four guidelines. It expresses struggle to solve the problem, clearly states who the ideal replier would be (growth experts), clearly states the commitment required to help (15 min. call), and provides context t the problem (need to build a model for Volley).  This card has a high probablity of receiving many high quality responses.
+
 ![alt tag](http://i.imgur.com/wO5ECyG.png)
