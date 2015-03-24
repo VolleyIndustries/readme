@@ -3,7 +3,7 @@ Volley is changing the way people give and receive help from each other. Through
 1. **Focus around a singular need.**
 Limit your request to one specific problem. Mention the experience or skills that the ideal person replying to your request has.   
 2. **Demonstrate vulnerability.** 
-The community is more inclined to help you when you're asking from a position of vulnerability. People want to help those who need help.  
+The community is more inclined to help you when you're asking from a position of vulnerability not self-promotion. People want to help those who are in need.  
 
 3. **Make the request actionable.**
 Be clear about how the community can help you. Tell the community what we can do as repliers to help you solve your problem. Be clear about the commitment you’re looking for (a 5 minute phone call or a quick response?)
