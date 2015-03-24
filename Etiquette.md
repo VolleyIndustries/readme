@@ -1,4 +1,4 @@
-Volley is changing the way people request, give, and receive help from members of their community. Through careful analysis of the requests and responses Volley so far, we've crafted guidelines to help you successfully communicate requests for optimal responses!
+Volley is changing the way people give and receive help from each other. Through careful analysis of the requests and responses Volley so far, we've crafted guidelines to help you successfully communicate requests for optimal responses!
 
 Use the following four guidelines as criteria for a high quality request: 
 
