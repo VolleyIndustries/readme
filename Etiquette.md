@@ -11,3 +11,5 @@ Be clear about how the community can help you. Tell the community what we can do
 
 4. **Provides context to the problem.**
 As much as possible, give context behind the problem the community is helping you solve.  Is this help for your business, for a side project, for a nonprofit you work with? 
+
+![alt tag](http://i.imgur.com/zz7hcXI.png)
