@@ -1,6 +1,6 @@
 Volley is changing the way people request, give, and receive help from members of their community. Through careful analysis of the requests and responses Volley so far, we've crafted guidelines to help you successfully communicate requests for optimal responses!
 
-Use the following four guidelines as criteria for a high quality request
+Use the following four guidelines as criteria for a high quality request: 
 
 1. **The request is focused around a singular need.**
 To define who you are seeking help from, describe the skills or experienced you are seeking.  What experience or skills would the ideal replier possess?  
