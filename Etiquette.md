@@ -15,5 +15,5 @@ The card below is an example of a request that meets all four guidelines. It exp
 
 ![alt tag](http://i.imgur.com/OJfxPp0.png?1)
 
-When you're ready, [Click here](http://volley.works/home#create) to create your own high quality request!
+When you're ready, [click here](http://volley.works/home#create) to create your own high quality request!
 
