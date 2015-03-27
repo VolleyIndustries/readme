@@ -35,4 +35,15 @@
 **Presence:**
 - [Twitter](https://twitter.com/brendanlynch "Brendan's Twitter")
 - [Website](http://brendanlynch.com "Brendan's Site")
+- 
+####Jason Myers
+<img width="128px" src="https://pbs.twimg.com/profile_images/580451409004523520/KpFkqn0J.jpg">
+
+**Facts:**
+- Growth
+- Previously growth @sniply , and business development @sensorsuite
+
+**Presence:**
+- [Twitter](https://twitter.com/JasonMyersTO "Brendan's Twitter")
+
 
