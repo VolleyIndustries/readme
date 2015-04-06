@@ -13,7 +13,9 @@ As much as possible, give context behind the problem the community is helping yo
 
 The card below is an example of a request that meets all four guidelines. It expresses struggle to solve the problem, clearly states who the ideal replier would be (growth experts), clearly states the commitment required to help (15 min. call), and provides context to the problem (need to build a model for Volley).  This card has a high probablity of receiving many high quality responses.
 
+When you're ready, [click here](http://volley.works/home#create) to post a new request!
+
 ![alt tag](http://i.imgur.com/OJfxPp0.png?1)
 
-When you're ready, [click here](http://volley.works/home#create) to create your own high quality request!
+
 
