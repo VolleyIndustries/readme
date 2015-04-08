@@ -1,9 +1,8 @@
 ##How to Post a Great Volley Request
 
-Volley is changing the way people give and receive help from each other. Through careful analysis of the requests and responses on Volley so far, we've created these guidelines to help you create successful requests. 
+*Volley is changing the way people give and receive help from each other. Through careful analysis of the requests and responses on Volley so far, we've created these guidelines to help you create successful requests.* 
 
 1. **Focus on a single problem.**
-
 Limit your request to one specific problem. Mention the experience or skills that the ideal person replying to your request has.   
 2. **Be genuine.** 
 The community is more inclined to help you if you're genuinely asking for help. People want to help those who need help.  
