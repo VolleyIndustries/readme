@@ -8,7 +8,7 @@ Table of contents
 ---
 1. [Why we're building Volley](https://github.com/VolleyIndustries/readme/blob/master/mission.md)
 2. [Who is building Volley](https://github.com/VolleyIndustries/readme/blob/master/team.md)
-3. [Values](https://github.com/VolleyIndustries/readme/blob/master/values.md)
+3. [Team values](https://github.com/VolleyIndustries/readme/blob/master/values.md)
 4. [Blog](https://medium.com/volley-works)
 5. [Stories from Volley members](https://medium.com/volley-stories)
 6. [Volley etiquette](https://github.com/VolleyIndustries/readme/blob/readme_etiquette/Etiquette.md)
