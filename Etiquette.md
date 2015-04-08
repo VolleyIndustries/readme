@@ -6,7 +6,7 @@ Volley is a community of developers, designers and entrepreneurs *helping* each 
 
 2. **Ensure our replies are relevant**
 
-3. **Never solicit business**
+3. **Not solicit business**
 
 Members who are unable to follow this etiquette run the risk of losing their membership.  
 
