@@ -1,9 +1,9 @@
 Volley is changing the way people give and receive help from each other. Through careful analysis of the requests and responses on Volley so far, we've created these guidelines to help you create successful requests. 
 
-1. **Focus around a singular need.**
+1. **Focus on a single need.**
 Limit your request to one specific problem. Mention the experience or skills that the ideal person replying to your request has.   
-2. **Demonstrate vulnerability.** 
-The community is more inclined to help you when you're asking from a position of vulnerability. People want to help those who need help.  
+2. **Be Genuine.** 
+The community is more inclined to help you if you're genuinely asking for help. People want to help those who need help.  
 
 3. **Make the request actionable.**
 Be clear about how the community can help you. Tell the community what we can do as repliers to help you solve your problem. Be clear about the commitment you’re looking for (a 5 minute phone call or a quick response?)
