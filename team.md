@@ -2,6 +2,8 @@
 <a href="#mike-murchison"><img src="https://lh4.googleusercontent.com/-DgVSPN_T0SA/AAAAAAAAAAI/AAAAAAAAAAA/lMdQB0bH9mQ/s128-c-k/photo.jpg" width="64px"></a>
 <a href="#david-hariri"><img src="https://lh3.googleusercontent.com/-15DCouwNT5s/AAAAAAAAAAI/AAAAAAAAAAA/O4A3I3KDqTQ/s128-c-k/photo.jpg" width="64px"></a>
 <a href="#brendan-lynch"><img src="https://pbs.twimg.com/profile_images/1191382894/twitter_200x200.jpg" width="64px"></a>
+<a href="#jason-myers"><img src="https://pbs.twimg.com/profile_images/580451409004523520/KpFkqn0J.jpg" width="64px"></a>
+<a href="#dan-gauthier"><img src="https://media.licdn.com/media/p/1/005/012/0bb/16b3b2d.jpg" width="64px"></a>
 
 ####Mike Murchison
 ![](https://lh4.googleusercontent.com/-DgVSPN_T0SA/AAAAAAAAAAI/AAAAAAAAAAA/lMdQB0bH9mQ/s128-c-k/photo.jpg "Our fearless leader")
@@ -30,7 +32,7 @@
 
 **Facts:**
 - CTO, Co-Founder
-- Previously Teehan+Lax, Built Readability, Medium, Krush and others...
+- Previously Teehan+Lax (built Readability, Medium, Krush and others...)
 
 **Presence:**
 - [Twitter](https://twitter.com/brendanlynch "Brendan's Twitter")
