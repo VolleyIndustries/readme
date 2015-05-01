@@ -41,9 +41,20 @@
 
 **Facts:**
 - Growth
-- Previously growth @sniply , and business development @sensorsuite
+- Previously growth @sniply, and business development @sensorsuite
 
 **Presence:**
-- [Twitter](https://twitter.com/JasonMyersTO "Brendan's Twitter")
+- [Twitter](https://twitter.com/JasonMyersTO "Jasons's Twitter")
+
+####Dan Gauthier
+<img width="128px" src="https://media.licdn.com/media/p/1/005/012/0bb/16b3b2d.jpg">
+
+**Facts:**
+- iOS 
+- Previously iOS @Arroware
+
+**Presence:**
+- [Twitter](https://twitter.com/Cowfaboo "Dan's Twitter")
+- [Website](http://www.twigrunner.com/ "Dan's Site")
 
 
