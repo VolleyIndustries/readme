@@ -2,8 +2,6 @@
 ===
 [Volley](http:volley.works) is a friendly place for helping others
 
-Table of Contents
----
 1. [Mission](https://github.com/VolleyIndustries/readme/blob/master/mission.md)
 2. [Team](https://github.com/VolleyIndustries/readme/blob/master/team.md)
 3. [Values](https://github.com/VolleyIndustries/readme/blob/master/values.md)
