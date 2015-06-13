@@ -1,19 +1,16 @@
-<img src ="http://volley.works/assets//marks/blueHorizontal.png" height="50">
+<img src ="http://i.imgur.com/jcv6jpD.png" height="80">
 ===
-[Volley](http:volley.works) is a community of developers, designers and entrepreneurs all helping each other make better things. Here you'll find a collection of documents on how and why we're building Volley.
+[Volley](http:volley.works) is a friendly place for helping others
 
-
-
-Table of contents
+Table of Contents
 ---
-1. [Why we're building Volley](https://github.com/VolleyIndustries/readme/blob/master/mission.md)
-2. [Who is building Volley](https://github.com/VolleyIndustries/readme/blob/master/team.md)
-3. [Team values](https://github.com/VolleyIndustries/readme/blob/master/values.md)
-4. [Blog](https://medium.com/volley-works)
-5. [Stories from Volley members](https://medium.com/volley-stories)
-6. [Volley etiquette](https://github.com/VolleyIndustries/readme/blob/master/request-guidelines.md)
-7. [How to post a great volley request](https://github.com/VolleyIndustries/readme/blob/master/request-guidelines.md)
-8. [FAQ](https://github.com/VolleyIndustries/readme/blob/master/faq.md)
-9. [Keyboard shortcuts](https://github.com/VolleyIndustries/readme/blob/master/shortcuts.md)
-10. [Interviews with Volley members](https://docs.google.com/spreadsheets/d/1PYUkcwEDhvS1nwhXUrt6-AwBY8Z07UmBsrNwPmc47Bc/edit#gid=0)
-11. [Press assets](https://www.dropbox.com/sh/bwx6wsmu9vukwmu/AABBrTMYX6qRXLmayNo6qbq9a?dl=0)
+1. [Mission](https://github.com/VolleyIndustries/readme/blob/master/mission.md)
+2. [Team](https://github.com/VolleyIndustries/readme/blob/master/team.md)
+3. [Values](https://github.com/VolleyIndustries/readme/blob/master/values.md)
+4. [Essays](https://medium.com/volley-works)
+5. [Ettiquette](https://github.com/VolleyIndustries/readme/blob/master/request-guidelines.md)
+6. [How to Request](https://github.com/VolleyIndustries/readme/blob/master/request-guidelines.md)
+7. [FAQ](https://github.com/VolleyIndustries/readme/blob/master/faq.md)
+8. [Member Interviews](https://docs.google.com/spreadsheets/d/1PYUkcwEDhvS1nwhXUrt6-AwBY8Z07UmBsrNwPmc47Bc/edit#gid=0)
+9. [Member Stories](https://medium.com/volley-stories)
+10. [Press](https://www.dropbox.com/sh/bwx6wsmu9vukwmu/AABBrTMYX6qRXLmayNo6qbq9a?dl=0)
