@@ -32,7 +32,7 @@
 
 **Facts:**
 - CTO, Co-Founder
-- Previously Teehan+Lax (built Readability, Medium, Krush and others...)
+- Previously Teehan+Lax (built Readability, Medium, Krush and others)
 
 **Presence:**
 - [Twitter](https://twitter.com/brendanlynch "Brendan's Twitter")
@@ -53,8 +53,8 @@
 <a href="#cory-lee"><img src="http://i.imgur.com/DXhy37C.jpg" width="256" alt="developer"></a>
 
 **Facts:**
-- Web 
-- Previously co-founded @NeverFrost (YC), and business development @sensorsuite
+- Web and iOS 
+- Previously co-founded @NeverFrost (YC)
 
 **Presence:**
 - [Linkedin](https://www.linkedin.com/profile/view?id=96314473&authType=NAME_SEARCH&authToken=kAgg&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2Cidx%3A1-1-1%2CtarId%3A1434382385746%2Ctas%3Acory%20 "Cory's Linkedin")
