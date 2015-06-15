@@ -1,7 +1,7 @@
 <img src ="http://i.imgur.com/jcv6jpD.png" height="80">
 ===
 
-1. [Mission](https://github.com/VolleyIndustries/readme/blob/master/mission.md)
+1. [About](https://github.com/VolleyIndustries/readme/blob/master/about.md)
 2. [Team](https://github.com/VolleyIndustries/readme/blob/master/team.md)
 3. [Values](https://github.com/VolleyIndustries/readme/blob/master/values.md)
 4. [Blog](https://medium.com/volley-works)
