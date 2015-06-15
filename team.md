@@ -7,6 +7,8 @@ We’re working on Volley because we believe in the potential of people helping 
 <a href="#dan-gauthier"><img src="http://i.imgur.com/75l2KTI.jpg" width="100px"></a>
 <a href="#cory-lee"><img src="http://i.imgur.com/DXhy37C.jpg" width="100px"></a>
 
+===
+
 ####Mike Murchison
 <a href="#mike-murchison"><img src="http://i.imgur.com/gHjEVeD.jpg" width="256px" alt="our CEO"></a>
 
@@ -65,7 +67,7 @@ Cory joined our team recently after graduating from nanotechnology engineering a
 
 **Facts:**
 - Web and iOS 
-- Previously co-founded @NeverFrost (YC S13)
+- Previously co-founded @NeverFrost (YC S14)
 
 **Presence:**
 - [Linkedin](https://www.linkedin.com/profile/view?id=96314473&authType=NAME_SEARCH&authToken=kAgg&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2Cidx%3A1-1-1%2CtarId%3A1434382385746%2Ctas%3Acory%20 "Cory's Linkedin")
