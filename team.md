@@ -6,6 +6,7 @@ We’re working on Volley because we believe in the potential of people helping 
 <a href="#brendan-lynch"><img src="http://i.imgur.com/ja4lCRK.jpg" width="100px"></a>
 <a href="#dan-gauthier"><img src="http://i.imgur.com/75l2KTI.jpg" width="100px"></a>
 <a href="#cory-lee"><img src="http://i.imgur.com/DXhy37C.jpg" width="100px"></a>
+
 ===
 
 ####Mike Murchison
