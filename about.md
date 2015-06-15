@@ -1,6 +1,6 @@
 **About**
 ==
-Volley is a friendly place for helping others 
+Volley is a friendly place for helping others. 
 
 Our mission is to help people help each other, to connect all of the world through the shared, human need for help and understanding.
 
