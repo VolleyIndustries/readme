@@ -1,5 +1,5 @@
 ##Request Guidelines
-Follow these guidelines to make it easy for others to help you on Volley. 
+Follow these guidelines to make it easy for others to help you on Volley when you create a request. 
 
 1. **Focus on a single problem.**
 Limit each request to one specific challenge, not two or three. Mention the experience or skills of the ideal person replying to your request. 
