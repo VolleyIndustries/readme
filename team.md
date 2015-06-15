@@ -54,7 +54,7 @@
 
 **Facts:**
 - Web and iOS 
-- Previously co-founded @NeverFrost (YC)
+- Nanotechnology engineering at UW & previously co-founded @NeverFrost (YC S13)
 
 **Presence:**
 - [Linkedin](https://www.linkedin.com/profile/view?id=96314473&authType=NAME_SEARCH&authToken=kAgg&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2Cidx%3A1-1-1%2CtarId%3A1434382385746%2Ctas%3Acory%20 "Cory's Linkedin")
