@@ -8,4 +8,4 @@
 5. [Ettiquette](https://github.com/VolleyIndustries/readme/blob/master/request-guidelines.md)
 6. [Guidelines](https://github.com/VolleyIndustries/readme/blob/master/request-guidelines.md)
 7. [FAQ](https://github.com/VolleyIndustries/readme/blob/master/faq.md)
-8. [Press](https://www.dropbox.com/sh/bwx6wsmu9vukwmu/AABBrTMYX6qRXLmayNo6qbq9a?dl=0)
+8. [Press 2](https://www.dropbox.com/sh/bwx6wsmu9vukwmu/AABBrTMYX6qRXLmayNo6qbq9a?dl=0)
