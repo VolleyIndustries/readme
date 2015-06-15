@@ -1,5 +1,5 @@
 #Team Volley
-We’re working on Volley because we believe in the potential of people helping each other over the internet. You can read more about our values [here](https://github.com/VolleyIndustries/readme/edit/master/values.md).
+We’re working on Volley because we believe in the potential of people helping each other over the internet. You can read more about our values [here](https://github.com/VolleyIndustries/readme/blob/master/values.md).
 
 <a href="#mike-murchison"><img src="http://i.imgur.com/gHjEVeD.jpg" width="100px"></a>
 <a href="#david-hariri"><img src="http://i.imgur.com/2UlN7LS.jpg" width="100px"></a>
