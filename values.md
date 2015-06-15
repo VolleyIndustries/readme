@@ -1,6 +1,6 @@
 Our Team is Purpose-Driven 
 ==
-These are our values that manifest both in our team relationship and in our work: 
+Here are our values that manifest both in our team relationship and in our work:
 
 ###Trust
 Trust is at the core of our relationship; it's the glue that allows us to communicate and ultimately self-improve. Trust is also what we seek to cultivate with our users, creating a place where they not only trust Volley to do what we say it does, but trust other users they meet through our software to be helpful and kind.  
@@ -21,3 +21,6 @@ We're committed to crafting a beautiful, delightful experience that makes both o
 We are in the pursuit of excellence. Ultimately this is not possible to achieve without a foundation of trust. 
 
 ![](http://i.imgur.com/43Ft2j7.png?1 "Our pyramid of excellence")
+
+For more about what's driving us, read our [blog](https://medium.com/volley-works) or turn to the [About](https://github.com/VolleyIndustries/readme/blob/master/about.md) section of this README. 
+
