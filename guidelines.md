@@ -1,5 +1,5 @@
 ##Request Guidelines
-Follow these guidelines to make it easy for others to help you on Volley when you create a request. For more information about how to act on Volley, read [Volley Etiquette](https://github.com/VolleyIndustries/readme/blob/master/etiquette.md)
+Follow these guidelines to make it easy for others to help you on Volley when you create a request. 
 
 1. **Focus on a single problem.**
 Limit each request to one specific challenge, not two or three. Mention the experience or skills of the ideal person replying to your request. 
@@ -15,3 +15,5 @@ We're on Volley because we want to help real people. Don't be afraid to be yours
 
 
 *Pro tip: requests that meet these guidelines are much more to receive a featured label and be promoted within the community.*
+
+For more information about behaviour on Volley, read [Volley Etiquette](https://github.com/VolleyIndustries/readme/blob/master/etiquette.md)
