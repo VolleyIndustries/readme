@@ -14,6 +14,7 @@ On Volley, just like on the [internet's first community](https://en.wikipedia.or
 
 Volley is not a job board, nor is it a place to solicit business. Twisted requests that are really ads in disguise will not be allowed. As a general rule, you shouldn't ask for help on Volley with anything you wouldn't feel comfortable asking a room full of your friends with. 
 
+
 Members who are unable to follow this etiquette run the risk of losing their membership. Have questions or suggestions about Volley Etiquette? Please [get in touch](https://github.com/VolleyIndustries/readme/blob/master/contact.md). For other information about behaviour on Volley, check out our [guidelines](https://github.com/VolleyIndustries/readme/blob/master/guidelines.md).
 
 
