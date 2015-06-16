@@ -16,4 +16,4 @@ We're on Volley because we want to help real people. Don't be afraid to be yours
 
 *Pro tip: requests that meet these guidelines are much more to receive a featured label and be promoted within the community.*
 
-For more information about behaviour on Volley, read [Volley Etiquette](https://github.com/VolleyIndustries/readme/blob/master/etiquette.md)
+For more information about behaviour on Volley, read [Volley Etiquette](https://github.com/VolleyIndustries/readme/blob/master/etiquette.md).
