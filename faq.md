@@ -2,7 +2,7 @@ Frequently Asked Questions
 ==
 ***Why is this on Github?***
 
-Instead of publishing a static website with the standard run of the mill about, contact, FAQ pages, we wanted to give you the ability to contribute. Github makes it easy for you to make changes to this stuff as you see fit. So go ahead and fix a typo, suggest a new [guideline](https://github.com/VolleyIndustries/readme/blob/master/request-guidelines.md), or add a question to this FAQ that you'd like answered.   
+Instead of publishing a static website with the standard run of the mill about, contact, FAQ pages, we wanted to give you the ability to contribute. Github makes it easy for you to make changes to this stuff as you see fit. So go ahead and fix a typo, suggest additions to Volley [etiquette](https://github.com/VolleyIndustries/readme/blob/master/etiquette.md), or add a question to this FAQ that you'd like answered.   
 
 ***What is volleying?***
 
@@ -24,6 +24,10 @@ We're really opinionated about this. [Let's get into a twitter argument about it
 ***What does a good request on Volley look like?***
 
 Requests that get lots of useful replies on Volley accomplish two things: First, they clearly state the skills or experience of the person they're trying to connect with. Second, they explain *why* they’re looking to meet that person. For example, a request like *"I'm looking for feedback from UX designers about how to improve my web app's onboarding experience"* works nicely. For more examples, check out our [guidelines](https://github.com/VolleyIndustries/readme/blob/master/request-guidelines.md). 
+
+***Why do I need a topic for my request?***
+
+As Volley grows, so too does the diversity of requests. Adding a topic to your request makes it easier for relevant people to find your request. Check out our request [guidelines](https://github.com/VolleyIndustries/readme/blob/master/guidelines.md) for other ways to make it easier for people to help you on Volley. 
 
 <!--***What is Karma?***-->
 
