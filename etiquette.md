@@ -4,7 +4,7 @@ Volley is a friendly place for helping others. As members of Volley, we agree to
 
 ####1. Be helpful and supportive
 
-Whether you're replying publically or privately, Volley is a place for being helpful and supportive. If you can't help directly with the author's request, remember that you can always volley their request to someone you know who is better suited to help. If neither you nor anyone you know can help, it's best not to reply. 
+Whether you're replying publicly or privately, Volley is a place for being helpful and supportive. If you can't help directly with the author's request, remember that you can always volley their request to someone you know who is better suited to help. If neither you nor anyone you know can help, it's best not to reply. 
 
 ####2. Own our own words
 
