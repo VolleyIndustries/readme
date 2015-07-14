@@ -11,7 +11,7 @@ Tell the community what we can do as repliers to help you solve your problem. Le
 As much as possible, explain *why* you're looking for help. We'd love to know what our contributions are going towards. 
 
 4. **Avoid hiring and selling.**
-Volley is not a job board, nor is it a place to solicit business. As a general rule, you shouldn't ask for help on Volley with anything you wouldn't feel comfortable asking a room full of your friends with.
+Volley is not a job board, nor is it a place to promote your business. As a general rule, you shouldn't ask for help on Volley with anything you wouldn't feel comfortable asking a room full of your friends with.
 
 5. **Be genuine.** 
 We're on Volley because we want to help real people. Don't be afraid to be yourself.  
