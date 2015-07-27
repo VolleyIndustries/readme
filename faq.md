@@ -27,7 +27,7 @@ We're really opinionated about this. [Let's get into a twitter argument about it
 
 ***What does a good request on Volley look like?***
 
-Requests that get lots of useful replies on Volley accomplish two things: First, they clearly state the skills or experience of the person they're trying to connect with. Second, they explain *why* they’re looking to meet that person. For example, a request like *"I'm looking for feedback from UX designers about how to improve my web app's onboarding experience"* works nicely. For more examples, check out our [guidelines](https://github.com/VolleyIndustries/readme/blob/master/request-guidelines.md). 
+Requests that get lots of useful replies on Volley accomplish two things: First, they clearly state the skills or experience of the person they're trying to connect with. Second, they explain *why* they’re looking to meet that person. For example, a request like *"I'm looking for feedback from UX designers about how to improve my web app's onboarding experience"* works nicely. For more examples, check out our [guidelines](https://github.com/VolleyIndustries/readme/blob/master/guidelines.md). 
 
  
 
