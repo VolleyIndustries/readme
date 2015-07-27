@@ -8,7 +8,7 @@ Whether you're replying publicly or privately, Volley is a place for being helpf
 
 💬 **Own our own words**
 
-On Volley, just like on the [internet's first community](https://en.wikipedia.org/wiki/The_WELL), you own your own words (YOYOW). This means you are responsible for the words that you post. 
+On Volley, just like on the [internet's first community](https://en.wikipedia.org/wiki/The_WELL), you own your own words (YOYOW). Words are powerful, and on Volley you are responsible for the difference they make. 
 
 🚫 **Avoid hiring and selling**
 
